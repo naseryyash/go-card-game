@@ -31,6 +31,29 @@ It covers the following Go syntax and concepts:
 	- test function name conventions  
 	- cleanup in tests  
 
+Commands:  
+
+To run this project:   
+*******************  
+
+go run main.go deck.go  
+
+To build this project:  
+*********************  
+
+go build main.go deck.go  
+
+To run unit tests:  
+*****************  
+
+go test  
+
+Env variable to be checked if facing go module issue (for windows - go version 1.16 and above):     
+**********************************************************************************************  
+
+GOPATH project-directory  
+GO111MODULE off  
+
 Hope this project helps any person trying to step into the world of Go. Although it has pretty basic functionality, still it covers a wide variety of concepts.  
 
 Lookout for many more such cool projects by me in the future!! Happy Learning!!   
