@@ -1,7 +1,7 @@
 # go-card-game
 This project is my first project in Golang. It is aimed at teaching the basics of Golang to beginners.  
 
-It covers a wide variety of Go syntax and concepts, some of which are as follows:  
+It covers the following Go syntax and concepts:  
 
 1) Basic Go syntax  
 	- packages  
@@ -33,4 +33,6 @@ It covers a wide variety of Go syntax and concepts, some of which are as follows
 
 Hope this project helps any person trying to step into the world of Go. Although it has pretty basic functionality, still it covers a wide variety of concepts.  
 
-Lookout for many more such cool projects by me in the future!! Happy Learning!!
+Lookout for many more such cool projects by me in the future!! Happy Learning!!   
+
+PS - I used VSCode as a code editor to open this project, but you can use any other code editor of your choice supporting Go
